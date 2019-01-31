@@ -1,7 +1,7 @@
 # custom-ui5-controls
-Repository showcasing a very simple custom control in ui5.
+Repository showcasing creation and usage of a very simple custom control in ui5.
 
-The control created is called `mh.custom.Flight`. And using this in ui5 code will give you the hex#9992(&#9992;) unicode character.
+The [control created](https://github.com/lalugeo/custom-ui5-controls/blob/master/ui/resources/webapp/custom/flightControl.js) is called `mh.custom.Flight`. And using this in ui5 code will give you the hex#9992(&#9992;) unicode character.
 
 
 ## Run
